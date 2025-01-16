@@ -13,7 +13,7 @@ require (
 	github.com/montanaflynn/stats v0.7.1
 	github.com/pelletier/go-toml v1.9.5
 	github.com/prometheus/client_golang v1.17.0
-	github.com/rs/cors v1.10.1
+	github.com/rs/cors v1.11.0
 	github.com/rubenv/sql-migrate v1.5.2
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.7.0
@@ -88,7 +88,7 @@ require (
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/crypto v0.24.0 // indirect
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d // indirect
-	golang.org/x/mod v0.17.0 // indirect
+	golang.org/x/mod v0.17.0
 	golang.org/x/net v0.26.0 // indirect
 	golang.org/x/oauth2 v0.21.0 // indirect
 	golang.org/x/sync v0.7.0 // indirect
